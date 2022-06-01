@@ -3,7 +3,7 @@
   This is a single page application that provides information about ground school, a sign in page, pricing and blog. 
 ## How to Run 
   Open the files with a local server to run. I used npx http-server inside the local files.
-##Roadmap of future improvements
+## Roadmap of future improvements
   I would like to make it so the search bar is actually functional to find things on the site. I also want to update the blog page so that it includes links to actual blog posts. 
 ## License
 MIT License
